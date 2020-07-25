@@ -1,0 +1,36 @@
+/*https://colorhunt.co/palette/66766*/
+
+/*********************TAG SELECTORS*********************/
+html {
+  font-weight: bold;
+}
+
+body {
+  background-color: #dff5f2;
+}
+hr {
+  border-color: #46b7b9;
+  border-style: solid none none;
+  border-width: 2px;
+}
+img {
+  width: 300px; height: 175px;
+}
+h1 {
+  color: #2f9296;
+}
+h1:hover {
+  color: #87dfd6;
+}
+h3 {
+  color: #2f9296;
+}
+p {
+  color: #2f9296;
+}
+
+/*********************CLASS SELECTORS*********************/
+
+.circular{
+  border-radius: 100%
+}
